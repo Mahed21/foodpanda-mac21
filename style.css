@@ -1,0 +1,42 @@
+.bye-now button
+{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    width:168px;
+    height: 52px;
+    border: none;
+    border-radius: 10px;
+}
+.watch-categories
+{
+background-color: #ffbe23;
+}
+.bag-categories
+{
+    background-color: #ff2d80;
+}
+.shoes-categories
+{
+    background-color: #2d25a0;
+}
+.shoe-button button
+{
+    color:white;
+    background-color:black;
+    width:150px;
+    height:40px;
+    border:none;
+    
+}
+input{
+    width:300px;
+    height:50px;
+    border:none;
+}
+.last-button{
+    border:none;
+    height:50px;
+    width:100px;
+    background-color: #ff3585;
+    
+
+}
